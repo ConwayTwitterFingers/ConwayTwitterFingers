@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ConwayTwitterFingers
-- 👀 I’m interested in learning to code!
+- 👋 Hi, I’m @ConwayTwitterFingers 🔫 🤠 🌵
+- 👀 I’m interested in learning to code! 🧠
 - 🐍 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on CS50 Python related material.
-- 📫 How to reach me: on here!
-- 🧙🏻‍♂️ Fun fact: No one can out-pizza the hut!
+- 🧙🏻‍♂️ Fun fact: No one can out-pizza the hut! 🍕
+- 🦧 Heheheh far out Donny! 🍀 🪐 ✨
